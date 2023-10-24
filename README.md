@@ -2,6 +2,7 @@
 PruebasUtest
 
 #Precondiciones
+
 Para la ejecución de cada script es necesario actualizar la versión del archivo 
 ChromeDriver que se encuentra en cada uno de los proyectos entregados, para lo cual 
 se debe ir a la siguiente página https://chromedriver.chromium.org/downloads para 
@@ -12,7 +13,8 @@ proyecto.
 Se debe tener instalado Java JDK (jdk-8u341-windows-x64) y Gradle (gradle-6.2-all) en 
 el equipo, así como también sus respectivas variables de entorno en el sistema.
 
-#Ejecución 
+#Ejecución
+
 Se debe ingresar la data requerida para la ejecución como lo son los datos de nombre, 
 apellido, correo, etc  dicha información debe ser ingresada en un Excel el cual se 
 encuentra dentro del proyecto en la ruta \Nombre Del Proyecto\src\test\resources\Data, 
